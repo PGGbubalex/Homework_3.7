@@ -15,5 +15,6 @@ public class Main {
         float averageDaysToLoseWeight= (daysIfFiveHundredGramsPerDay + daysIfTwoHundredAndFiftyGrams) / 2;
             System.out.println("В среднем потребуется " + averageDaysToLoseWeight + " день, чтобы похудеть " + weightInKilos + " килограмм");
 
+            // task 7 complete
     }
 }
